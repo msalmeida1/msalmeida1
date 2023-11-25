@@ -28,6 +28,8 @@
       </p>
     </samp>
   </div>
+  
+-----
 
   <h1>🧮 Skills</h1>
   <div>
@@ -50,6 +52,8 @@
       </p>
     </samp>
   </div>
+
+-----
 
 <samp>
 <h2>👨‍💻Linguagens mais usadas</h2>
