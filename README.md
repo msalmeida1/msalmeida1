@@ -11,8 +11,7 @@
 
 -----
 
-<details>
-  <summary>☎️ Entre em contato</summary>
+  <h2>☎️ Entre em contato</h2>
   <div>
     <samp>
       <h2 align="center">Você pode me encontrar em:</h2>
@@ -29,90 +28,35 @@
       </p>
     </samp>
   </div>
-</details>
 
-<details>
-  <summary>🧮 Sobre</summary>
+  <h1>🧮 Skills</h1>
   <div>
     <samp>
-      <h2 align="center">Sobre esta conta</h2>
-      <p align="center">
-        <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-           src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=VISUALIZAÇÕES+DO PERFIL" height="25"
-           alt="contagem de visualizações" /></a>
-        <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
-           src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-           alt="website" /></a>
+      <p align="left"> 
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+        <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
+        <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
       </p>
-      <p align="center">
-        <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-           src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-           alt="CodeFactor" /></a>
-        <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-           src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-           alt="página construída"/></a>
-      </p>
-      <p align="center">
-        <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-           src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
-           alt="licença" /></a>
-        <a href="github.com/1999AZZAR"><img align="center"
-           src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-           alt="funciona na minha máquina" /></a>
       </p>
     </samp>
   </div>
-</details>
-  
-<details> 
-  <summary>💻 Estatísticas do Perfil GitHub</summary>
-  <div>
-    <samp>
-      <h2 align="center">Estatísticas do Github</h2>
-        <br/>
-      <details open>
-        <summary><h3>Linguagens</h3></summary>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-            alt="1999AZZAR :: Principais Linguagens " /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-            alt="1999AZZAR :: Principais Linguagens por repositório" />
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-            alt="1999AZZAR :: Principais Linguagens por commit" />
-          </a>
-        </p>
-      </details>
-      <details open>
-        <summary><h3>Estatísticas</h3></summary>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
-        </p>
-        <br>
-      </details>
-    </samp>
-  </div>    
-</details>
 
-<details>
-  <summary>📈 Gráfico de Atividade Recente</summary>
-  <samp>
-    <br/>
-    <h2 align="center">Últimas contribuições</h2>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Gráfico de Atividade de Azzar" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-    </a>
-    <br/>
-  </samp>
-</details>
+<samp>
+<h2>👨‍💻Linguagens mais usadas</h2>
+</samp>
+<samp>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msalmeida1&show_icons=true&locale=en&layout=compact" alt="msalmeida1" /></p>
+</samp>
+</div>   
 
-<details>
-  <summary>🌏 Global</summary>
-  <br/>
-</details>
