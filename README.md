@@ -1,37 +1,21 @@
-<div align="center">
-  <h1 align="center">Olá <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Eu sou Matheus</h1>
-  <h4 align="center">Entusiasta da área de dados e estudante de Sistemas de Informação na Universidade Estadual do Mato Grosso (UNEMAT), confira meu <a href="https://www.linkedin.com/in/matheus-almeida-45286a27b/" target="_blank">Linkedin</a> para mais detalhes</h4>
-</div>
+<h1 align="center">Matheus Almeida</h1>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
------
+<p align="center">
+  <a href="mailto:matheusalmeida2167@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:matheusalmeida2167@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/matheus-almeida-45286a27b/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-almeida-45286a27b/" alt="LinkedIn"/></a>
+</p>
 
-  <h2>☎️ Entre em contato</h2>
-  <div>
-    <samp>
-      <h2 align="center">Você pode me encontrar em:</h2>
-      <p align="center">
-        <br/>
-        <a href="https://www.linkedin.com/in/matheus-almeida-45286a27b/" target="blank"><img align="center"
-           src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-           alt="azzar" height="30"/></a>
-        <a href="mailto:matheusalmeida2167@gmail.com" target="blank"><img align="center"
-           src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-           alt="azzar" height="30"/></a>
-      </p>
-        <br>
-      </p>
-    </samp>
-  </div>
-  
------
+<p align="left"> 
 
-  <h1>🧮 Skills</h1>
+* 🎓 Currently pursuing a Bachelor's degree in Information Systems.
+* 📚 Student of data, big data, machine learning and AI.
+
+</p>
+
   <div>
     <samp>
       <p align="left"> 
@@ -55,12 +39,8 @@
 
 -----
 
-<samp>
-<h2>👨‍💻Linguagens mais usadas</h2>
-</samp>
-<samp>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msalmeida1&show_icons=true&locale=en&layout=compact" alt="msalmeida1" /></p>
-</samp>
-</div>   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msalmeida1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msalmeida1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
